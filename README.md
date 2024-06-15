@@ -5,16 +5,16 @@
 #
 
 ```
-| Industry           | Country | Min Employees Required | Min Annual Revenue (USD) Required |
-|--------------------|---------|-----------------------|------------------------------------|
-| Manufacturing      | USA     | 50                    | 2000000                            |
-| Retail             | USA     | 10                    | 300000                             |
-| Service            | Canada  | 3                     | 200000                             |
-| Goods Production   | Canada  | 5                     | 400000                             |
-| Technology         | USA     | 15                    | 1500000                            |
-| Healthcare         | Canada  | 5                     | 400000                             |
-| Agriculture        | USA     | 10                    | 300000                             |
-| Retail             | Canada  | 3                     | 200000                             |
+| Industry           | Country | Min Employees Required | Min Annual Revenue (USD) Required  |
+|--------------------|---------|------------------------|------------------------------------|
+| Manufacturing      | USA     | 50                     | 2000000                            |
+| Retail             | USA     | 10                     | 300000                             |
+| Service            | Canada  | 3                      | 200000                             |
+| Goods Production   | Canada  | 5                      | 400000                             |
+| Technology         | USA     | 15                     | 1500000                            |
+| Healthcare         | Canada  | 5                      | 400000                             |
+| Agriculture        | USA     | 10                     | 300000                             |
+| Retail             | Canada  | 3                      | 200000                             |
 ```
 
 Measuring financial thresholds for small businesses involves evaluating the minimum financial performance required for a business to be viable and competitive in its market. This assessment includes parameters such as revenue, profit margins, and operational costs. By understanding the financial thresholds, businesses can better strategize their entry into various industries, ensuring they meet the necessary criteria to sustain operations and grow. These thresholds serve as benchmarks, helping new and existing businesses align their financial planning with industry standards and regional economic conditions.
